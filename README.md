@@ -1,2 +1,0 @@
-# tsPlayground
-Typescript Playground
